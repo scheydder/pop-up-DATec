@@ -1,4 +1,4 @@
-bioEp.init({
+      bioEp.init({
             html: '<div id="bio_ep_content">' +
             '<img src="pop-up/imagens-pop/seta.png" width="0" alt="Participe" style="margin-right: 130px;" />' +
             '<span></span>' +
